@@ -1,16 +1,56 @@
-<<<<<<< HEAD
-# React + Vite
+# 💱 Conversor de Divisas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación simple y funcional creada con **React**, que permite convertir montos entre diferentes monedas usando una **API real de tipo de cambio**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌸 Vista previa
 
-## Expanding the ESLint configuration
+![Vista previa](./public/conversor.png) -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# conversor-divisas-react
->>>>>>> 03594776646e5521cb6c2f42e4f9106cc3740740
+---
+
+## 🛠️ Tecnologías usadas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🎨 Estilo
+
+- Estética suave con colores en **rosa palo**
+- Tipografía elegante y moderna: **Quicksand**
+- Diseño limpio, centrado y responsive
+
+---
+
+## 🔌 API utilizada
+
+- [Exchangerate API](https://www.exchangerate-api.com/)
+- Uso de `fetch` para traer tasas de cambio actualizadas
+
+---
+
+## 🚀 ¿Cómo ejecutarlo?
+
+```bash
+# Clona el repositorio
+git clone https://github.com/Genesisdeabreu/conversor-divisas-react.git
+
+# Entra a la carpeta
+cd conversor-divisas-react
+
+# Instala dependencias
+npm install
+
+# Ejecuta en desarrollo
+npm run dev
+
+## 👩‍💻 Autor
+
+**Génesis de Abreu**  
+Desarrolladora Frontend Junior 💻✨  
+[GitHub](https://github.com/Genesisdeabreu)
